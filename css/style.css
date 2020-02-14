@@ -1,0 +1,12 @@
+body{
+	margin: auto;
+	max-width: 1024px;
+}
+
+h1, h2{
+	text-align: center;
+}
+
+.photo{
+	float: right;
+}
